@@ -11,7 +11,7 @@
 - 🎓 Étudiante en informatique
 - 🌱 J’apprends React, GitHub, et plein de trucs cool !
 - 💡 J’aime créer des sites web et découvrir de nouveaux projets
-- ✉️ Contact : hammaniwissal@gmail.com (ou ton vrai mail)
+- ✉️ Contact : hammaniwissal@gmail.com 
 
 ---
 
